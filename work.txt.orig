@@ -1,0 +1,9 @@
+#Title1
+content 5
+<<<<<<< HEAD
+master content 6
+=======
+o2 content 6
+>>>>>>> o2
+#Title2
+content 5
